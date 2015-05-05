@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Day/Night"
+	"author_name" "Nautical"
+	"info" "Fully configurable day and night cycle."
+}
